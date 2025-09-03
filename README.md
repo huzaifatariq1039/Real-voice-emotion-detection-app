@@ -187,7 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
+Your Name - Huzaifa Tariq - huzaifatariq148@gmail.com
 
 Project Link: [https://github.com/yourusername/voice-emotion-detection](https://github.com/yourusername/voice-emotion-detection)
 
